@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+
+    //"AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    //"AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    //"FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDBConnection": "AccountEndpoint=https://students.documents.azure.com:443/;AccountKey=nPLOZ4iQsfrKtKiynVjHGjNHiYtPPWHT261bZe46hEeDgNMxRjPzPIAY6ZWnYaqJJitKq6Nen0CePy2ic0Jq8w=="
+  }
+}
